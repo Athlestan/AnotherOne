@@ -17,6 +17,8 @@ public class AnotherOne {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("it works?!");
+        int i = 5; 
+        System.out.print(i);
     }
     
 }
